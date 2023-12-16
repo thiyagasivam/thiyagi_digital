@@ -27,8 +27,8 @@ Route::get('seo', function () {
     return view('seo');
 });
 
-Route::get('components/about', function () {
-    return view('components/about');
+Route::get('about', function () {
+    return view('about');
 });
 
 

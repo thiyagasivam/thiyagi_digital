@@ -125,7 +125,7 @@
                                 </li>
 								<li><a href="testimonial.php" target="_blank">Testimonial</a></li>
 								<li><a href="#" target="_blank">Blog</a></li>
-                                <li><a href="components/contact" target="_blank">Contact Us</a></li>
+                                <li><a href="contact" target="_blank">Contact Us</a></li>
 
 							</ul>
 						</nav>
